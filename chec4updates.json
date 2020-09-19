@@ -1,7 +1,7 @@
 iot_aqs/ID_FFFFFF/webconf
 {
-  "date":"2020.09.19-15:08:56",
-  "fw_version": "0.09.19-15:08:56",
+  "date":"2020.09.14-10:12:07",
+  "fw_version": "0.09.14-10:12:30",
   "brok_url" : "mqtt://mqtt.eclipse.org",
   "brok_port" : 1883,
   "OTA_url" : "https://github.com/CesarGit-Sigma/IoTpub/blob/master/IoTSensorCpp.bin",
